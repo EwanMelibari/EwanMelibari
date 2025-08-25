@@ -1,8 +1,13 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Ewan melibari</h1>
-<h3 align="center">A software engineering student</h3>
+## Welcome
+<h1 align="center">I'm Ewan melibari</h1>
+<h3 align="center">Software engineering student</h3>
 
-- Interested in **Back-end development & distributed computing**
+<h4>Interested in:</h4>
+<ul>
+  <li>Backend development</li>
+  <li>Distributed computing & networking</li>
+  <li>Machine learning & AI</li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
