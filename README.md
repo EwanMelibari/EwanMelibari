@@ -54,15 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
----
-
-### 📊 Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YEwanMelibari&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwanMelibari&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EwanMelibari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
