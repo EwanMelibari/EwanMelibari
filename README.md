@@ -1,6 +1,9 @@
-# ⚡ Welcome to my profile!
+<div align = "center">
+  <h1>🎩 Welcome to my profile!</h1>
+</div>
 
-<h3 align="center">My name is Ewan, a Software Engineering student in Saudi Arabia interested in Backend Engineering, Requirements Analysis, and Software Design.</h3>
+<h3 align="center">My name is Ewan </h3>
+<h4 align="center">I'm a Software Engineer, System Architect, Backend Engineer, and Distributed Systems Developer. 🧑🏻‍💻</h4>
 
 ---
 
