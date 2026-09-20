@@ -3,7 +3,8 @@
 </div>
 
 <h3 align="center">My name is Ewan </h3>
-<h4 align="center">I'm a Software Engineer, System Architect, Backend Engineer, and Distributed Systems Developer. 🧑🏻‍💻</h4>
+<h4 align="center">I'm a Software Engineer focused on backend systems,
+distributed computing, networking, and software architecture. 🧑🏻‍💻</h4>
 
 ---
 
@@ -19,6 +20,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
